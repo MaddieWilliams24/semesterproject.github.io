@@ -13,9 +13,34 @@ body{
     color:white;
 }
 
+#beginning{
+    z-index: 100;
+}
+
 .pages{
     display:inline;
     text-align: center;
     font-size: 20px;
     color: white;
+}
+
+p.paragraph{
+    color: white;
+    font-size: 15px;
+}
+
+div.images{
+    margin-top: -140px;
+}
+
+#cool_child{
+    margin-bottom: 100px;
+    margin-left: -230px;
+    scale: 50%;
+}
+
+#chill_kangoroo{
+    margin-left: -190px;
+    scale: 50%;
+    z-index: -1;
 }
