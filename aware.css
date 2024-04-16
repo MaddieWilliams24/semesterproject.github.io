@@ -20,3 +20,21 @@ body{
     color: white;
 }
 
+h1.aware{
+    color:white;
+
+}
+
+p.aware{
+    color: white;
+    text-align: left;
+
+    font-size: 22px;
+}
+
+img.aware{
+    margin-top: -10px;
+
+    width: 260px;
+    height: 260px;
+}
